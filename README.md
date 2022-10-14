@@ -2,7 +2,7 @@
 - 👀 I’m interested in UX/UI, frontend and backend...But at this moment mainly the front. Step by step I will learn more :)
 - 🌱 I’m currently learning JS, JQuery, React etc.
 - 💞️ I’m looking to collaborate on projects where junior developers like me can be useful.
-- 📫 gabyszabo@gmail.com
+- 📫 gabyszabo5@gmail.com
 
 <!---
 GabiSza/GabiSza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
